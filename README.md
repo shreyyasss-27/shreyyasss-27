@@ -3,7 +3,7 @@
 
 <img align="right" alt="techguy" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🌱 I’m currently learning **C++, Java**
+- 🌱 I’m currently learning **C++, Java, MERN Stack**
 
 - 📝 I regularly write articles on [https://theredgadgetteam.blogspot.com/](https://theredgadgetteam.blogspot.com/)
 
