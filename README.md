@@ -1,23 +1,42 @@
-<h1 align="center">Hi 👋, I'm Shreyas Patil !!!</h1>
-<h3 align="center">A passionate and a budding software developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shreyyasss-27.shreyyasss-27" />
 
-<img align="right" alt="techguy" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyas+Patil!;" />
+</h1>
 
-- 🌱 I’m currently learning **C++, Java, MERN Stack**
+<h3 align="center">An aspiring IT Engineer</h3>
 
-- 📝 I regularly write articles on [https://theredgadgetteam.blogspot.com/](https://theredgadgetteam.blogspot.com/)
+<br/>
 
-- 📫 How to reach me **shreyaspatil2710@gmail.com**
+<div align="center">
+ 
+ 🔭 I’m currently pursuing Undergrads in **B.Tech IT**
+ 
+ 🌱 I’m currently learning **AWS**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shreyyasss_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyyasss_27" height="30" width="40" /></a>
+⚡ Well experienced at **C++, MERN Stack, JAVA**
 
-</p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:shreyaspatil2710@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyas-p27/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://shreyaspatil2710.github.io/portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,cpp,html,css" /><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyyasss-27&show_icons=true&locale=en&layout=compact" alt="shreyyasss-27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyyasss-27&show_icons=true&locale=en" alt="shreyyasss-27" /></p>
+<hr/>
